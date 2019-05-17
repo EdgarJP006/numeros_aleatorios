@@ -1,5 +1,7 @@
 Tarea El-misterio de los números aleatorios
+
 Nombre:- Edgar Peréz
+
 C.I.D= 8-803-1772
 
 Generación de números aleatorios del 1 al 32000 unifromes y normales
